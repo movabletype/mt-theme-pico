@@ -2,7 +2,7 @@
 Pico is a microblogging theme, designed for keeping things simple to handle frequent updates. To put the focus on content we've moved the sidebars below the list of posts.
 
 ## Requirements
-* Movable Type Pro 6.3.2 or later
+* Movable Type Pro r.5004 / 6.8.4 or later
 
 ## Installing
 
@@ -22,4 +22,4 @@ See [SUPPORT.TXT](SUPPORT.TXT)
 
 The following copyright notice applies to all the files provided in this distribution, including binary files, unless explicitly noted otherwise.
 
-Copyright 2021 Six Apart, Ltd.
+Copyright 2021 Six Apart Ltd.
